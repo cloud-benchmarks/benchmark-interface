@@ -1,0 +1,4 @@
+name: benchmark
+summary: Benchmark announcement interface
+version: 0
+repo: https://github.com/cloud-benchmarks/benchmark-interface.git
