@@ -4,7 +4,7 @@ from charms.reactive import RelationBase
 from charms.reactive import scopes
 
 
-class HttpProvides(RelationBase):
+class BenchmarkProvides(RelationBase):
     scope = scopes.GLOBAL
 
     @hook('{provides:benchmark}-relation-{joined,changed}')
